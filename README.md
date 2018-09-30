@@ -13,3 +13,6 @@ Uso de patrones de diseño de software en [JAVA Enterprise Edition](https://en.w
 - [Strategy](https://en.wikipedia.org/wiki/Strategy_pattern): Prácticamente lo que menciona el patrón, es que se puede definir familias de algoritmos, encapsularlos y hacerlos intercambiables, el patrón permite que los algoritmos sean independientes a los clientes donde se esté utilizando.
 - [DAO](https://en.wikipedia.org/wiki/Data_access_object): Menciona que puedes abstraer la lógica de acceso de un conjunto de operaciones, es muy común utilizar este patrón para operaciones a base de datos.
 - [Dependency injection](https://en.wikipedia.org/wiki/Dependency_injection): Patrón orientado a objetos, en el que se suministran objetos a una clase en lugar de ser la propia clase la que cree dichos objetos. Esos objetos cumplen criterios que necesitan nuestras clases para poder funcionar (de ahí el concepto de dependencia).
+
+### Antipatrones
+> [Bad practices](https://sg.com.mx/revista/11/anti-patrones-la-mejor-forma-hacer-un-pesimo-sistema-software): Por acá comparto un enlace donde explican las malas prácticas al momento de construir software.
