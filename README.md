@@ -1,4 +1,6 @@
 ## JAVA EE Design Patterns
+[![JAVA](https://img.shields.io/badge/JAVA%20EE-8-brightgreen.svg?longCache=true&style=flat-square)](https://www.oracle.com/technetwork/java/javaee/overview/index.html) [![Photon](https://img.shields.io/badge/Eclipse-Photon-brightgreen.svg?longCache=true&style=flat-square)](https://www.eclipse.org/photon/noteworthy/)
+
 Uso de patrones de diseño de software en [JAVA Enterprise Edition](https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition)
 - [Singleton](https://en.wikipedia.org/wiki/Singleton_pattern): Su intención consiste en garantizar que una clase solo tenga una instancia y proporcionar un punto de acceso global a ella.
 - [Factory](https://en.wikipedia.org/wiki/Factory_method_pattern): El objetivo es, devolver instancias de una clase en particular por medio de algún identificador.
