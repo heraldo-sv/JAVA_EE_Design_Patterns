@@ -1,5 +1,6 @@
 package com.heraldo.commands;
 
+//Receiver/Request
 public class Cuenta {
 	private int id;
 	private double saldo;
